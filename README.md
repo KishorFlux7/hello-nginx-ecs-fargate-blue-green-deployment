@@ -119,7 +119,7 @@ You can create complete infrastructure using single command.
 
       alb_hostname = "prod-app-hello-nginx-alb-45267.us-east-1.elb.amazonaws.com"
      ```
-      You should be able to access website using URK `prod-app-hello-nginx-alb-457236267.us-east-1.elb.amazonaws.com`
+      You should be able to access website using URL `prod-app-hello-nginx-alb-457236267.us-east-1.elb.amazonaws.com`
 2. Delete all modules in single command - 
 You can destroy complete infrastructure using single command.
      - Make sure you have the correct vars
